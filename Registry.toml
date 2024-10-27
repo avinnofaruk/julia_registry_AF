@@ -1,0 +1,6 @@
+name = "julia_registry_AF"
+uuid = "67a4e165-e34c-49a3-ba83-9bfe972f855f"
+repo = "git@github.com:avinnofaruk/julia_registry_AF.git"
+description = "My private registry"
+
+[packages]
