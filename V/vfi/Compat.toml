@@ -1,0 +1,6 @@
+[0]
+Interpolations = "0.15.1 - 0.15"
+LinearAlgebra = "1.11.0 - 1"
+Plots = "1.40.8 - 1"
+Roots = "2.2.1 - 2"
+julia = "1"

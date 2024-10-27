@@ -4,3 +4,4 @@ repo = "git@github.com:avinnofaruk/julia_registry_AF.git"
 description = "My private registry"
 
 [packages]
+2b46deca-1448-4368-992d-484c512fc6b3 = { name = "vfi", path = "V/vfi" }
